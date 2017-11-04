@@ -1,4 +1,4 @@
 # hello-world
 LearningGitHub
 
-It is my new programe
+Hello My First Programe
